@@ -267,7 +267,7 @@ Color used in light backgrounds and as contrast to dark backgrounds.
 
 ```yaml
 # theme.yml
-accentDark: "#ffffff"
+accentDark: "#141414"
 ```
 
 #### `lightGray`

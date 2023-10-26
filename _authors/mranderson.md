@@ -1,11 +1,11 @@
 ---
 layout: author
 photo: /assets/img/uploads/profile.png
-name: mranderson
-display_name: Mr. Anderson
+name: nana
+display_name: matchingappkyukeizyo
 position: The One
-bio: Bulletproof hacker passionate about leather clothes.
-github_username: github_username
+bio: マッチングアプリに疲れた方のためのマッチングアプリ休憩所
+github_username: po0o89gp
 facebook_username: facebook_username
 twitter_username: twitter_username
 instagram_username: instagram_username
