@@ -4,10 +4,10 @@
   "description": "マッチングアプリ休憩所 マッチングアプリに疲れた方、出会えない方、友達を作りたい方、ヤリモク避け、の方法をまとめました",
   "type": "module",
   "main": "gulpfile.js",
-  "homepage": "https://github.com/emplate.git#readme",
+  "homepage": "https://github.com/thiagorossener/jekflix-template.git#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/x-template.git"
+    "url": "https://github.com/thiagorossener/jekflix-template.git"
   },
   "keywords": [
     "jekyll",
