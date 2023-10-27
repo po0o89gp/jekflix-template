@@ -11,9 +11,11 @@ permalink: /about/
 
 # About
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+マッチングアプリに疲れた方、出会えない方、友達を作りたい方、ヤリモク避け、の方法をまとめました。
+アプリを初めてみたものの、なかなか出会えない、せっかく会ってみても次に繋がらない、ヤリモクだった、
+恋愛だけじゃなく友達も作りたい、色んな悩みがアプリには尽きません。
+そのようなお悩みの参考になればとアプリの使い方のコツやおすすめのアプリをご紹介しています。
+　　
+　　
+
+## <!-- 新しいセクション -->

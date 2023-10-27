@@ -28,7 +28,7 @@
   margin: 0 0 rem(40px);
   padding: 0 rem(23px);
   text-transform: lowercase;
-  color: #fff;
+  color: #e37f8b
 }
 
 .box-item {
@@ -71,7 +71,7 @@
     .box-body {
       time,
       p {
-        color: $accentDark
+        color: darken($lightGray, 100%);
 ;
       }
 
@@ -102,7 +102,7 @@
     padding: 0 rem(15px);
 
     a {
-      color: $accentDark;
+      color: $themeColor;
     }
   }
 
@@ -117,7 +117,7 @@
     time {
       font-weight: 300;
       font-size: rem(16px);
-      color: darken($lightGray, 50%);
+      color: darken($lightGray, 30%);
       pointer-events: none;
     }
 
@@ -125,13 +125,13 @@
       margin: rem(10px) 0;
       font-size: rem(24px);
       @include mainFont(800);
-      color: $accentDark;
+      color: #141414;
       line-height: rem(30px);
     }
 
     p {
       margin: 0 0 rem(30px);
-      color: darken($lightGray, 20%);
+      color: darken($lightGray, 50%);
       font-size: rem(17px);
       line-height: rem(26px);
     }
@@ -139,18 +139,18 @@
     .tags a {
       height: rem(30px);
       line-height: rem(26px);
-      color: $accentDark;
+      color: #e37f8b;
       padding: 0 rem(10px);
-      border: 1px solid $accentDark;
+      border: 1px solid #e37f8b;
       border-radius: 15px;
       display: inline-block;
       margin: 0 rem(10px) rem(10px) 0;
       z-index: 50;
 
       &:hover {
-        color: $primaryDark;
-        background: $accentDark;
-        border-color: $accentDark;
+        color: $accentDark;
+        background: #e37f8b;
+        border-color: #e37f8b;
       }
     }
 

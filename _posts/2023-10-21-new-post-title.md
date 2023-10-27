@@ -10,6 +10,6 @@ category: テストカテゴリ
 tags:
   - テスト
   - Jekyll
-author: あなたの名前
+author: Nana
 paginate: false
 ---

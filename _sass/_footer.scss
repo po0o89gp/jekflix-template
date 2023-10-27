@@ -59,7 +59,7 @@ footer {
     color: #808080;
     
     &:hover {
-      fill: $themeColor;
+      fill: #e37f8b;
     }
     
     &.creator:hover {
@@ -88,11 +88,11 @@ footer {
 
 .main-page {
   footer {
-    background: $primaryDark;
-    border-top: 1px solid lighten($primaryDark, 10%);
+    background: $accentDark;
+    border-top: 1px solid lighten(#808080, 25%);
     
     p {
-      color: $accentDark;
+      color: #141414;
     }
   }
 }

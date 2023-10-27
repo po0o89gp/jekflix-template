@@ -235,13 +235,13 @@ To see how your website is going to look like when you deploy it, run `bundle ex
 
 Type: *hexadecimal*
 
-Default: ![#ff0a16](https://placehold.it/15/ff0a16/000000?text=+) `#FF0A16`
+Default: ![#e37f8b](https://placehold.it/15/ff0a16/000000?text=+) `#e37f8b`
 
 Color used in links, icons and some custom elements.
 
 ```yaml
 # theme.yml
-themeColor: "#ff0a16"
+themeColor: "#e37f8b"
 ```
 
 #### `primaryDark`

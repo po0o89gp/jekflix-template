@@ -78,7 +78,7 @@ Create the file `/assets/css/styles.scss` and add:
 ---
 ---
 
-$themeColor: #f7a3e2;
+$themeColor: #e37f8b;
 $primaryDark: #141414;
 $accentDark: #ffffff;
 $lightGray: #f2f2f2;
@@ -136,7 +136,7 @@ two_columns_layout: true
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
-language: "en"
+language: "ja"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
 
@@ -149,7 +149,7 @@ collections:
     output: true
 paginate_path: "/page/:num/"
 show_get_theme_btn: true
-use_logo: false
+use_logo: true
 
 # Content paginator
 paginate_content:
