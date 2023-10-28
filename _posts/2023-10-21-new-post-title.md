@@ -4,8 +4,8 @@ layout: post
 title: "テストしよう"
 subtitle: テストしてみようと思います
 description: この投稿はテストのためのものです
-image: https://drive.google.com/uc?id=1Nq74ck-Lg2bng8io4xksvMhe4Zl5BPNf
-optimized_image: https://drive.google.com/uc?id=1Nq74ck-Lg2bng8io4xksvMhe4Zl5BPNf
+image: https://res.cloudinary.com/dotzkirey/image/upload/v1698503691/matchapptired_qdye8e.jpg
+optimized_image: https://res.cloudinary.com/dotzkirey/image/upload/v1698503691/matchapptired_qdye8e.jpg
 category: テストカテゴリ
 tags:
   - テスト
