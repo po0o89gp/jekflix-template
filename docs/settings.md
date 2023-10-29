@@ -69,9 +69,9 @@ tags:
 
 Type: *string*
 
-The email is used for the Contact page with legacy [Formspree](https://formspree.io/) forms.
+The email is used for the Contact page with legacy [Formspree](https://formspree.io/f/meqbnwro) forms.
 
-Leaving this and `formspree_form_id` blank won't show a Contact page.
+Leaving this and `my-form` blank won't show a Contact page.
 
 > **Warning:** This will become obsolete in v4
 
@@ -79,14 +79,14 @@ Example:
 
 ```yaml
 # site.yml
-email: youremail@xyz.com
+email: nana.katamura0923@gmail.com
 ```
 
-#### `formspree_form_id `
+#### `my-form `
 
 Type: *string*
 
-The [Formspree](https://formspree.io/) ID is used in Contact page.
+The [Formspree](https://formspree.io/f/meqbnwro) ID is used in Contact page.
 
 Leaving this and `email` blank won't show a Contact page.
 
@@ -94,7 +94,7 @@ Example:
 
 ```yaml
 # site.yml
-formspree_form_id: your_formspree_form_id
+formspree_form_id: my-form
 ```
 
 #### `disqus_username`
