@@ -21,12 +21,12 @@ menu:
     url: /contact
 #  - title: Feed
 #    url: /feed.xml
-email: groupmatching@gmail.com
+email: groupsmatching@gmail.com
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting
 # See: https://formspree.io/
-formspree_form_id: my-form
+formspree_form_id: meqbnwro
 
 
 # Social Media Settings

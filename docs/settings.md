@@ -79,7 +79,7 @@ Example:
 
 ```yaml
 # site.yml
-email: nana.katamura0923@gmail.com
+email: groupsmatching@gmail.com
 ```
 
 #### `my-form `
@@ -94,7 +94,7 @@ Example:
 
 ```yaml
 # site.yml
-formspree_form_id: my-form
+formspree_form_id: meqbnwro
 ```
 
 #### `disqus_username`
