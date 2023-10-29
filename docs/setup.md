@@ -77,10 +77,10 @@ translations:
     share_on_twitter: "Share on Twitter"
     share_on_facebook: "Share on Facebook"
   pagination:
-    page: "Page"
+    page: "ページ"
     of: "of"
-    next_page: "Next Page"
-    next_post: "Previous Page"
+    next_page: "次へ"
+    next_post: "前へ"
   recommendation:
     text: "Why don't you read something next?"
     back_btn: "Go back to top"
