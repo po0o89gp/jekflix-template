@@ -336,7 +336,7 @@ Show/hide recommendation modal when visitor reaches the end of the post. It acce
 
 ```yaml
 # posts.yml
-show_modal_on_finish_post: false
+show_modal_on_finish_post: true
 ```
 
 ![Modal screenshot](https://res.cloudinary.com/dm7h7e8xj/image/upload/v1566478245/before-you-go-screenshot_prrplk.jpg)
