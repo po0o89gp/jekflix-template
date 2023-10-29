@@ -54,24 +54,24 @@ function adjust_textarea(h) {
 Vue.use(VeeValidate);
 
 const dictionary = {
-  {{ site.translations.contact.errors.locale | default: 'en' }}: {
+  {{ site.translations.contact.errors.locale | default: 'ja' }}: {
     custom: {
       name: {
-        required: "{{ site.translations.contact.errors.empty_name | default: 'Name is required' }}"
+        required: "{{ site.translations.contact.errors.empty_name | default: '名前を入力してください' }}"
       },
       email: {
-        required: "{{ site.translations.contact.errors.empty_email | default: 'Email is required' }}",
-        email: "{{ site.translations.contact.errors.invalid_email | default: 'Email is invalid' }}"
+        required: "{{ site.translations.contact.errors.empty_email | default: 'メールアドレスを入力してください' }}",
+        email: "{{ site.translations.contact.errors.invalid_email | default: 'メールアドレスが無効です' }}"
       },
       message: {
-        required: "{{ site.translations.contact.errors.empty_message | default: 'Message is required' }}"
+        required: "{{ site.translations.contact.errors.empty_message | default: 'メッセージを入力してください' }}"
       }
     }
   }
 };
 
 VeeValidate.Validator.updateDictionary(dictionary);
-VeeValidate.Validator.setLocale("{{ site.translations.contact.errors.locale | default: 'en' }}");
+VeeValidate.Validator.setLocale("{{ site.translations.contact.errors.locale | default: 'ja' }}");
 
 new Vue({
   el: '#form',

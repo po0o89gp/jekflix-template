@@ -24,7 +24,7 @@
     height: rem(45px);
 
     &.has-error {
-      border-color: #f7a3e2;
+      border-color: #FF0000;
     }
   }
 
@@ -35,7 +35,7 @@
   span {
     display: block;
     font-size: rem(14px);
-    color: #f7a3e2;
+    color: #FF0000;
     padding-bottom: rem(10px);
   }
 
@@ -46,7 +46,7 @@
     background: $themeColor;
     font-size: rem(18px);
     width: 100%;
-    border: 1px solid darken($themeColor, 30%);
+    border: 0px none darken($themeColor, 0%);
     border-width: 1px 1px 3px;
     margin-top: rem(50px);
     margin-bottom: rem(10px);

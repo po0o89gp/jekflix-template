@@ -91,14 +91,14 @@ translations:
   contact:
     title: "Talk to me"
     subject: "New contact!"
-    submit_btn: "Send"
+    submit_btn: "送信"
     placeholders:
-      name: "Your name"
-      email: "Your e-mail"
-      message: "Your message"
+      name: "名前"
+      email: "メールアドレス"
+      message: "メッセージ"
     errors:
       locale: "en"
-      empty_name: "Name is required"
+      empty_name: "名前を入力してください"
       empty_email: "Email is required"
       invalid_email: "Email is invalid"
       empty_message: "Message is required"
