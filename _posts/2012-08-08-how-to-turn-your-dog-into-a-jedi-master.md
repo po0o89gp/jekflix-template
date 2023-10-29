@@ -33,6 +33,7 @@ HTML defines a long list of available inline tags, a complete list of which can 
 
 Most of these elements are styled by browsers with few modifications on our part.
 
+
 # Heading 1
 
 ## Heading 2
